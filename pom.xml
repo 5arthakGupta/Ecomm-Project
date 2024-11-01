@@ -11,6 +11,7 @@
     <groupId>com.sarthak</groupId>
     <artifactId>EcommerceProject</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <packaging>war</packaging>
     <name>EcommerceProject</name>
     <description>EcommerceProject</description>
     <url/>

@@ -23,6 +23,7 @@ public class FakeStoreProductService implements ProductService{
                 FakeStoreProductDto.class
         );
 
+
         System.out.printf(fakeStoreProductDto.toString());
 
         return fakeStoreProductDto.toProduct();
